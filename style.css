@@ -1,5 +1,0 @@
-body {
-    background-color: #bb1515;
-    /* font-size: calc(13px + (36 - 13) * ((100vw - 300px) / (1600 - 300))); */
-    font-size: calc(8rem + (46 - 13) * ((100vw - 300rem) / (1600 - 300)));
-}

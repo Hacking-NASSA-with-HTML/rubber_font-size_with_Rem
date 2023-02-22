@@ -1,0 +1,20 @@
+/* Import all your fonts from fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body {
+    /* Reset CSS */
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: #bb1515;
+}
+
+.home_lets_connect_paragraph {
+    font-family: 'Roboto', sans-serif;
+    /* font-size: calc(13px + (36 - 13) * ((100vw - 300px) / (1600 - 300))); */
+    font-size: calc(8rem + (46 - 13) * ((100vw - 300rem) / (1600 - 300)));
+    text-transform: uppercase;
+    margin: 0 0 0 20px;
+}
