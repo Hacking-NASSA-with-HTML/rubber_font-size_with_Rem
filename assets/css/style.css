@@ -1,6 +1,11 @@
 /* Import all your fonts from fonts.google.com */
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
+* {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
 body {
     /* Reset CSS */
     margin: 0;
